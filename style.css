@@ -91,9 +91,10 @@ body {
 }
 
 .attribution {
+  color: hsl(var(--white));
   font-size: 11px;
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(var(--soft-blue));
 }
